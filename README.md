@@ -53,6 +53,7 @@ Congratulations! Your project is fully set up.
 <br />
 
 ## 🏷 Components Used
+- [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
 - [psycopg2-binary](https://pypi.org/project/psycopg2-binary/)
 - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/install.html)
